@@ -1,0 +1,136 @@
+.fontloca{
+    font-size: 25px;}
+.paddingnav{
+  padding:20px;
+} 
+.dropdown-hover:hover>.dropdown-menu {
+  display: inline;
+ }
+  .dropdown-hover>.dropdown-toggle:active {
+  /*Without this, clicking will make it sticky*/
+  pointer-events: none;
+  }
+  
+.body3{
+    background-image:url("https://d3nn873nee648n.cloudfront.net/900x600/13841/15-ES498818.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+   }  
+.navbg:hover{
+            background-color: white !important;
+            /* margin-left:auto; */
+           }
+.text1{color: rgb(105, 9, 125);
+}
+.h1{
+ position: relative;
+    top:70px;
+}
+.fontloca1{
+    font-size: 55px;
+}
+.button5 {
+    font-size: 30px;
+    border-radius: 30px;
+    background-color: rgb(109, 6, 174);
+}
+.navbar{
+    padding: 0px 0px 0px 0px !important;
+    
+    }
+.button6 {
+    font-size: 30px;
+    border-radius: 35px;
+   }
+   .button4{
+    position: relative;
+    bottom: 40px;
+   }
+.body1{
+    background-image:url("https://img.theculturetrip.com/wp-content/uploads/2017/04/final-peter-gif.gif");
+    min-height: 100vh;
+    background-size:cover;}
+.body2{
+    background-image:url("https://i.pinimg.com/originals/69/f9/e9/69f9e9afdabacb960185c5aaea3af619.gif");
+    min-height: 100vh;
+    background-size:cover;
+}  
+.body5{
+    background-image:url("https://d3nn873nee648n.cloudfront.net/900x600/11889/1-CG365658.jpg");
+    min-height: 100vh;
+    background-size:cover;}
+.body4{
+    background-image:url("https://i.pinimg.com/originals/e6/0c/4a/e60c4ae6305c1b5d57e9954166761db9.gif");
+    min-height: 100vh;
+    background-size:cover;
+}  
+.body9{
+    background-image:url("https://www.wipro.com/content/dam/nexus/en/service-lines/product-engineering/infographics/before_car_3.png");
+    min-height: 80vh;
+    background-size:cover;}
+.img1{
+    margin-top:200px;
+}
+.body11{
+   background-color: black;
+    height: 1200px;
+}
+.body12{
+    background-image:url("https://caylent.com/wp-content/uploads/2021/07/7-Reasons-to-Migrate-from-DigitalOcean-to-AWS.jpg.webp");
+    min-height: 50vh;
+    opacity:0.8;
+    background-size:cover;}
+.body13{
+        background-image:url("https://d3nn873nee648n.cloudfront.net/900x600/19197/120-SM904584.jpg");
+        min-height: 50vh;
+        background-size:cover;}    
+.body14{
+    background-image:url("https://caylent.com/wp-content/uploads/2021/03/Domain-Driven-Design-for-Large-Infrastructure-as-Code-Projects.png.webp");
+    min-height: 50vh;
+     background-size:cover;}
+.body15{
+    background-image:url("https://d3nn873nee648n.cloudfront.net/900x600/19146/300-SM931474.jpg");
+    min-height: 30vh;
+    opacity:0.7;
+    background-size:cover;}
+.body16{
+        background-image:url("https://d3nn873nee648n.cloudfront.net/900x600/19207/120-SM908836.jpg");
+       
+        background-size:cover;}
+.body17{
+    background-image:url("https://d3nn873nee648n.cloudfront.net/900x600/10700/220-SM304413.jpg");
+   
+    background-size:cover;}            
+    .ab{
+        margin-top: 160px;
+    }
+    .ab1{
+        margin-top: 300px;
+        margin-left: 30px;
+    }
+    .tex{
+        margin-left: 380px;
+    }
+    .textbox{
+        width: 730px;
+        height: 50px;
+    }
+    .button9 {
+        font-size: 30px;
+        border-radius: 40px;
+        background-color: rgb(47, 6, 72);
+        width: 250px;
+        margin-top: 50px;
+        height: 80px;
+    }
+    .a1:hover{
+        background-color: white;
+    
+       }
+.c1:hover{
+     color: blue;
+}
+.c1{
+    background-color:  rgb(47, 6, 72);
+}
